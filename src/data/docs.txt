@@ -1,0 +1,5 @@
+Python 是一种高级编程语言。
+
+FastAPI 是一个高性能 Python Web 框架。
+
+RAG（Retrieval Augmented Generation）结合了检索和生成能力。
